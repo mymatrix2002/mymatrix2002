@@ -1,6 +1,8 @@
-## Hi there 👋
+![Arise's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=mymatrix2002&count_private=true&show_icons=true&theme=radical&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mymatrix2002&layout=compact&hide=css,scss,shell,html&langs_count=8&show_icons=true&theme=radical)
 
 <!--
+## Hi there 👋
 **mymatrix2002/mymatrix2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
